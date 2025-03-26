@@ -7,6 +7,6 @@
 - ⚡ Fun fact: Kay
 
 <!---
-0550618930/0550618930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gbolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
